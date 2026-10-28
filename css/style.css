@@ -6,3 +6,5 @@
 @media(max-width:380px){.brand-name{font-size:.77rem}.brand-name small{font-size:.55rem}.nav-wrap{gap:8px}.product-grid{gap:9px}.product-info{padding:9px}.product-title{font-size:.91rem}.button{padding-inline:14px}}
 
 
+
+.footer-address{display:block;font-style:normal;color:#c8c3bc;font-size:.9rem;line-height:1.5;margin:0 0 7px;max-width:300px}.footer-directions{display:inline-block;color:#ef9d5d!important;font-size:.85rem;text-decoration:underline;margin-bottom:12px}
