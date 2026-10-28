@@ -1,0 +1,15 @@
+/* Product catalog: edit or add products here. Image paths are relative to the site root. */
+window.PRODUCTS = [
+ {id:1,name:'The Constitution of India',category:'Books',price:850,author:'Bare Act Edition',description:'A carefully presented edition of the Constitution of India for students, advocates, and legal institutions.',image:'images/book-constitution.svg',featured:true,publication:true},
+ {id:2,name:'Bharatiya Nyaya Sanhita, 2023',category:'Books',price:495,author:'Bare Act Edition',description:'An accessible reference edition of the Bharatiya Nyaya Sanhita, 2023 for everyday legal study.',image:'images/book-bns.svg',featured:true,publication:true},
+ {id:3,name:'Code of Civil Procedure',category:'Books',price:625,author:'Bare Act Edition',description:'A practical law library staple for law students and legal professionals.',image:'images/book-cpc.svg',featured:true,publication:false},
+ {id:4,name:'Criminal Procedure Reference',category:'Books',price:720,author:'Student Edition',description:'A clear, durable reference for classroom, chamber, and court preparation.',image:'images/book-criminal.svg',featured:true,publication:false},
+ {id:5,name:'Jurisprudence: An Introduction',category:'Books',price:540,author:'Study Guide',description:'A concise introduction to foundational schools and concepts in jurisprudence.',image:'images/book-jurisprudence.svg',featured:false,publication:true},
+ {id:6,name:'Evidence Law Handbook',category:'Books',price:390,author:'Pocket Edition',description:'A compact handbook for quick reference while studying evidence law.',image:'images/book-evidence.svg',featured:true,publication:false},
+ {id:7,name:'Legal Eagle Cotton Tote',category:'Clothing',price:350,author:'NLB Agency',description:'A sturdy everyday tote for carrying casebooks, notes, and essentials.',image:'images/tote.svg',featured:false,publication:false},
+ {id:8,name:'Advocate Emblem T-Shirt',category:'Clothing',price:699,author:'NLB Agency',description:'A comfortable cotton tee with a subtle law-inspired emblem.',image:'images/shirt.svg',featured:false,publication:false},
+ {id:9,name:'Scales of Justice Sticker Set',category:'Stickers',price:99,author:'Set of 4',description:'Four durable law-themed stickers for notebooks, laptops, and folders.',image:'images/stickers.svg',featured:true,publication:false},
+ {id:10,name:'Legal Notes Hardcover Journal',category:'Stationery',price:275,author:'A5 ruled notebook',description:'A hard-cover ruled journal for lectures, case notes, and daily planning.',image:'images/journal.svg',featured:false,publication:false},
+ {id:11,name:'Courtroom Desk Pen',category:'Stationery',price:180,author:'Metal finish',description:'A balanced everyday writing pen for office and study use.',image:'images/pen.svg',featured:false,publication:false},
+ {id:12,name:'Case Brief Index Tabs',category:'Stationery',price:145,author:'Pack of 120',description:'Colour-coded page markers to organise statutes, judgments, and class notes.',image:'images/tabs.svg',featured:false,publication:false}
+];
