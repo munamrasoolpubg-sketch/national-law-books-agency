@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-labelledby="title desc">
+  <title id="title">Legal book placeholder</title>
+  <desc id="desc">A dark legal reference book with a gold border, used until a product photograph is added.</desc>
+  <defs>
+    <linearGradient id="cover" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#3a403d"/>
+      <stop offset="1" stop-color="#171a19"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="480" fill="#e9e3d9"/>
+  <ellipse cx="320" cy="414" rx="190" ry="22" fill="#c9beb0"/>
+  <path d="M160 72h280l38 30v304H160z" fill="url(#cover)" stroke="#b77b4c" stroke-width="5"/>
+  <path d="M440 72v330" stroke="#d7bd9a" stroke-width="3"/>
+  <path d="M190 112h220M190 122h220" stroke="#d7bd9a" stroke-width="2"/>
+  <text x="300" y="222" fill="#f3e8d8" text-anchor="middle" font-family="Georgia,serif" font-size="33">LEGAL</text>
+  <text x="300" y="267" fill="#f3e8d8" text-anchor="middle" font-family="Georgia,serif" font-size="33">REFERENCE</text>
+  <path d="M215 300h170" stroke="#d18a50" stroke-width="3"/>
+  <text x="300" y="347" fill="#d7bd9a" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" letter-spacing="3">BOOK IMAGE PLACEHOLDER</text>
+</svg>

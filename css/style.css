@@ -8,3 +8,4 @@
 
 
 .footer-address{display:block;font-style:normal;color:#c8c3bc;font-size:.9rem;line-height:1.5;margin:0 0 7px;max-width:300px}.footer-directions{display:inline-block;color:#ef9d5d!important;font-size:.85rem;text-decoration:underline;margin-bottom:12px}
+.shop-pagination{display:flex;justify-content:center;align-items:center;gap:16px;margin:28px 0 12px;color:var(--mid);font-size:.9rem}.page-button{min-height:44px;padding:8px 16px;border:1px solid #d5cbbc;background:#fff;color:#262626;cursor:pointer}.page-button:hover:not(:disabled){background:#282725;color:#fff}.page-button:disabled{opacity:.45;cursor:not-allowed}.catalogue-note{margin-top:18px;color:var(--mid);font-size:.9rem}

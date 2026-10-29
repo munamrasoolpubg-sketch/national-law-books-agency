@@ -15,7 +15,9 @@ Open `index.html` in a web browser. The site is built with plain HTML, CSS, and 
 
 ## Edit the products
 
-Open `js/products.js` and edit the `window.PRODUCTS` list. Product details and prices live there. Put product images in `images/` and update each product's image path.
+Open `js/products.js` and edit the `window.PRODUCTS` list. Product details, prices, ISBNs, editions, and subject sections live there. The supplied catalogue contributed 813 book listings; all imported book entries use the shared `images/catalogue-book-placeholder.svg` image. Replace that file with a real book image later, or change individual image paths if you add category-specific placeholders.
+
+The catalogue PDF filename says October 2027, while its cover says October 2026. Its listed prices are subject to change, so confirm price and availability before accepting an order. The Shop page shows 24 products at a time and includes a catalogue price note.
 
 ## Edit the design and pages
 
