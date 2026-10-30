@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-labelledby="title">
+  <title id="title">Illustrated black lawyers gown placeholder</title>
+  <rect width="640" height="480" fill="#e9e3d9"/>
+  <ellipse cx="320" cy="419" rx="150" ry="17" fill="#c8bdad"/>
+  <path d="M264 83l-55 25-83 51 47 89 42-22v146h210V226l42 22 47-89-83-51-55-25-56 36z" fill="#292c2a" stroke="#151615" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M264 83l56 86-50 50 50 153 50-153-50-50 56-86-56 36z" fill="#1d1f1e" stroke="#d59b67" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M320 169v203" stroke="#d59b67" stroke-width="4"/>
+  <path d="M299 112h42l-5 45h-32z" fill="#f0e9df" stroke="#c8bdad" stroke-width="3"/>
+  <path d="M302 155l18 24 18-24" fill="none" stroke="#f0e9df" stroke-width="7" stroke-linejoin="round"/>
+  <text x="320" y="398" fill="#eee4d7" text-anchor="middle" font-family="Georgia,serif" font-size="19" letter-spacing="2">LAWYERS GOWN</text>
+  <text x="320" y="455" fill="#71675b" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" letter-spacing="4">CLOTHING PLACEHOLDER</text>
+</svg>
